@@ -8,7 +8,7 @@ This repo contains these recipies as well as some others.
 
 Python2/3 compatible 
 
-### Example
+### Example usage
     >>> import iterextensions
     >>> iterextensions.take(2, [1,2,3,4])
     [1, 2]
